@@ -1,4 +1,4 @@
-# argon
+# Argon
 Egy hasznos magyar discord bot
 ----------------------------------
 Support szerver: https://discord.gg/rDyjfGy
